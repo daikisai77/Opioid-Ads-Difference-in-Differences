@@ -1,5 +1,5 @@
 # Overview
-This project analyzes opioid-related Facebook ads to understand how digital advertising interacts with the U.S. opioid epidemic. Using natural language processing (NLP), topic modeling, and causal inference techniques, I explored how ad exposure by category and geography correlates with opioid-related deaths across states.
+This project analyzes opioid-related Facebook ads to understand how digital advertising interacts with the U.S. opioid epidemic. Using natural language processing (NLP), topic modeling, and causal inference techniques, I explored how ad exposure by category and geography correlates with opioid-related deaths across states. (If you would like to see all the ad data files please email me at daikisai77@gmail.com)
 
 # Data Pipeline
 ## Data Collection:

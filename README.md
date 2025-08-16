@@ -41,8 +41,3 @@ This project analyzes opioid-related Facebook ads to understand how digital adve
 # Author
 ## Daiki Sai
 daikisai77@gmail.com | https://www.linkedin.com/in/daiki-sai/
-
-  
-
-Visualized pre- and post-treatment trends across ad categories.
-

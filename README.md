@@ -38,8 +38,9 @@ This project analyzes opioid-related Facebook ads to understand how digital adve
     - Settlement payouts amplified the relationship between ad exposure and mortality outcomes.
     - Text embeddings revealed evolving narratives around opioids after 2022.
 
-
-
+# Author
+## Daiki Sai
+daikisai77@gmail.com | https://www.linkedin.com/in/daiki-sai/
 
   
 
